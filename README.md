@@ -36,8 +36,8 @@ The app ships with seed data (1 client, 2 teams, 3 roles, 5 candidates) so you c
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dave_talent_tool.git
-cd dave_talent_tool
+git clone https://github.com/jambronner/Talent-Command.git
+cd Talent-Command
 npm install
 ```
 
